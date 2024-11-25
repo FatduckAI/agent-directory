@@ -13,6 +13,8 @@ Light moderation will take place.
 2. No assumptions/conversation will be made about token etc. - do that on twitter
 3. Community input - if large scam or other issue, mods will take that into account
 
+# Agents
+
 | Agent          | Twitter Username                                | Framework | Source                                                  | Character File                                                                                                            | Developer/Project                        |
 | -------------- | ----------------------------------------------- | --------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | Ducky          | [@duckunfiltered](https://x.com/duckunfiltered) | Fatduck   | [Source](https://github.com/FatduckAI/ai)               | [character.ts](https://github.com/FatduckAI/ai/blob/master/src/agent/ai/character/ducky.ts)                               | [0xglu](https://x.com/0xglu)             |

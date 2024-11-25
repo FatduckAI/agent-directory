@@ -3,7 +3,6 @@ description: Submit a new agent or update existing agent information
 title: "[Agent]: "
 labels: ["agent-submission", "needs-review"]
 body:
-
 - type: markdown
   attributes:
   value: |

@@ -1,13 +1,9 @@
-# .github/ISSUE_TEMPLATE/bot_submission.md
-
 ---
-
 name: Bot Submission
 about: Submit a new bot or update an existing bot entry
 title: "[Bot]: "
 labels: bot-submission, needs-review
 assignees:
-
 ---
 
 # Bot Submission/Update

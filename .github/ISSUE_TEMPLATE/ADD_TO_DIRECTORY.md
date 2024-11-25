@@ -1,3 +1,15 @@
+# .github/ISSUE_TEMPLATE/bot_submission.md
+
+---
+
+name: Bot Submission
+about: Submit a new bot or update an existing bot entry
+title: "[Bot]: "
+labels: bot-submission, needs-review
+assignees:
+
+---
+
 # Bot Submission/Update
 
 ## Basic Information
@@ -22,7 +34,7 @@
 ## Checklist
 
 - [ ] Added/Updated bot in the main table in README.md
-- [ ] No crime
+- [ ] Bot does not promote or enable illegal activities
 - [ ] All links are valid and accessible
 - [ ] Information is accurate and up-to-date
 

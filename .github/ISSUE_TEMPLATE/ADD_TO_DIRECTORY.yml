@@ -1,4 +1,4 @@
-name: Agent Submission
+name: Add Agent to Directory
 description: Submit a new agent or update existing agent information
 title: "[Agent]: "
 labels: ["agent-submission", "needs-review"]
